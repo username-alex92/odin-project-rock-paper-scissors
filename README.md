@@ -21,6 +21,6 @@ This is a simple browser-based implementation of the classic **Rock, Paper, Scis
 
 1. **`getHumanChoice()`** — Prompts the user for input.
 2. **`getComputerChoice()`** — Generates a random choice for the computer.
-3. **`playRound(playerChoice, computerChoice)`** — Contains logic for one round.
-4. **`displayFinalResult(scorePlayer, scoreComputer)`** — Displays the final outcome after all rounds.
+3. **`playRound(humanChoice, computerChoice)`** — Contains logic for one round.
+4. **`displayFinalResult(humanScore, computerScore)`** — Displays the final outcome after all rounds.
 5. **`playGame()`** — Runs the game loop for five rounds and keeps score.
