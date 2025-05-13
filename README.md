@@ -17,7 +17,7 @@ This is a simple browser-based implementation of the classic **Rock, Paper, Scis
 
 ## ⚙️ Main Functions in `script.js`
 
-2. **`getComputerChoice()`** — Generates a random choice for the computer.
-3. **`playRound(humanChoice, computerChoice)`** — Contains logic for one round.
-4. **`displayFinalResult(humanScore, computerScore)`** — Displays the final outcome after all rounds.
-5. **`resetGame()`** — Resets the game state and scores to start a new match.
+1. **`getComputerChoice()`** — Generates a random choice for the computer.
+2. **`playRound(humanChoice, computerChoice)`** — Contains logic for one round.
+3. **`displayFinalResult(humanScore, computerScore)`** — Displays the final outcome after all rounds.
+4. **`resetGame()`** — Resets the game state and scores to start a new match.
