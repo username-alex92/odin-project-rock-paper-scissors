@@ -35,7 +35,7 @@ buttons.addEventListener("click", (event) => {
     runningScore.textContent = `Player ${humanScore} : ${computerScore} Computer`;
 
     if (humanScore === 5 || computerScore === 5) {
-        resetDisplay();
+        resetGame();
     }
 });
 
