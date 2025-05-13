@@ -71,7 +71,7 @@ function playRound(humanChoice, computerChoice) {
     }
 }
 
-function resetDisplay() {
+function resetGame() {
     displayFinalResult(humanScore, computerScore);
     humanScore = 0;
     computerScore = 0;
